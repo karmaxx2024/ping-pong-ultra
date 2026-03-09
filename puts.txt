@@ -1,0 +1,15 @@
+ping-pong-ultra/
+├── settings.json              # ← Файл настроек
+├── sound_manager.py           # ← Код менеджера
+├── main.py
+├── config.py
+├── menu.py
+├── game.py
+├── server.py
+├── client.py
+└── assets/
+    └── sounds/
+        ├── hit.wav            # ← Твои звуки
+        ├── score.wav
+        ├── click.wav
+        └── win.wav
